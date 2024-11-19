@@ -27,6 +27,9 @@ This project is a mini version of a working blogging website. This project uses 
 - Clone this repo to your local machine.
 
 #### Run server locally
+```shell
+$ pip install requirements.txt
+```
 
 ```shell
 $ python manage.py runserver
